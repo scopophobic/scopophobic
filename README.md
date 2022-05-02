@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Adithyan Madhu</h1>
-<h3 align="center">I'm a first year btech student</h3>
+<h1 align="center">Heyo, I'm Adithyan Madhu</h1>
+<h3 align="center">AKA SCOPOPHOBIC
+<br>I'm a first year betch student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="scopophobic" /> </p>
 
