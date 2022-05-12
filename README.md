@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="scopophobic" /> </p>
 
-- 🔭 I’m currently working on [30 days of coding :)](https://github.com/scopophobic/30dayDSA)
-
 - 🌱 I’m currently learning **DSA and Web development**
 
 - 📫 How to reach me **adithyanmadhu1234@gmail.com**
