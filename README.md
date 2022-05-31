@@ -1,4 +1,4 @@
-<h1 align="center">Heyo, I'm Adithyan Madhu</h1>
+<h1 align="center">Heyo, I'm Adithyan</h1>
 <h3 align="center">AKA SCOPOPHOBIC
 <br>I'm a first year betch student</h3>
 
