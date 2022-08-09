@@ -16,7 +16,7 @@
 <h3>About me</h3>
 
 ```
-hi, i'm a CS undergrad. i like to code, and interested in flimmaking. i would love to do some collaborative projects.
+hi, i'm a CS undergrad. i am interested in open source, i would love if any could guide me abit :)
 ```
 
 
