@@ -1,5 +1,5 @@
 
-<h1> Hi there I'm Adithyan - AKA Scopophobic </h1>
+# Hi there I'm Adithyan - Aka [Scopophobic](https://scopophobic.github.io/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -19,6 +19,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
+Music and Coffee is everthing.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=m8aengd6wj1uxakai3kt2ko5g&count=2)
 
