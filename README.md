@@ -7,8 +7,8 @@
 <h2> I'm Computer Science Undergrad 👨🏽‍🎓</h2>
 
 
-- 👨‍💻 I’m currently working on DSA and web development technologies like JavaScript, react ect.
-- 📚 I’m very much interest in open source and collabration works.  DMs are always open :)
+- 👨‍💻 I’m currently working on DSA and I'm learning Devops (trying it out).
+- 📚 I’m very much interest in open source and collabrative works.  DMs are always open :)
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: i love movies and cinematography, also i like football.
 <img align="right" src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="scopophobic" /> 
