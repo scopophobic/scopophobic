@@ -42,7 +42,7 @@
 ### GIthub Stats 📊
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scopophobic&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-![scopophobic](https://github-readme-stats.vercel.app/api?username=scopophobic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=00000000&hide_border=true&custom_title=Scopophobic's_GitHub_Stats)
+![scopophobic](https://github-readme-stats.vercel.app/api?username=scopophobic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117&hide_border=true&custom_title=Scopophobic's_GitHub_Stats)
 
 </div>
 
