@@ -18,7 +18,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Music and Coffee is everthing. 🎧
+### Music and Coffee is everything. 🎧 ☕️
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m8aengd6wj1uxakai3kt2ko5g&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=m8aengd6wj1uxakai3kt2ko5g&redirect=true)
