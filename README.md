@@ -1,5 +1,5 @@
 
-# Hi there I'm Adithyan - Aka [Scopophobic](https://scopophobic.github.io/)
+# Adithyan Madhu - [Scopophobic](https://scopophobic.github.io/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
