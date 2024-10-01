@@ -7,26 +7,26 @@
 <h2> I'm Computer Science Undergrad 👨🏽‍🎓</h2>
 
 
-- 👨‍💻 I’m currently working on DSA and I'm learning Devops (trying it out).
+- 👨‍💻 Working on my CS and Maths fundamentals along with that learning ML.
 - 📚 I’m very much interest in open source and collabrative works.  DMs are always open :)
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: i love movies and cinematography, also i like football.
+- 💪🏼 Future Goal: Learn 
+- ⚡ Fun fact: i love movies and songs, also if you wanna play chess with me > [Chess.com](https://www.chess.com/member/adithyanmadhu)
 <img align="right" src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="scopophobic" /> 
 
-
+<!---
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Music and Coffee is everything. 🎧 ☕️
+### Music and Coffee ☮️.
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m8aengd6wj1uxakai3kt2ko5g&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=m8aengd6wj1uxakai3kt2ko5g&redirect=true)
 
 <br>
 
+-->
 ---
-
 <div align="center">
 
 
@@ -39,7 +39,8 @@
 
 </div>
 
----
+
+<!---
 <div align="center">
 
 ### GIthub Stats 📊
@@ -50,4 +51,5 @@
 </div>
 
 ---
+-->
                                                                
