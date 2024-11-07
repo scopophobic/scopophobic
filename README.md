@@ -7,7 +7,7 @@
 <h2> I'm Computer Science Undergrad 👨🏽‍🎓</h2>
 
 
-- 👨‍💻 Working on my CS and Maths fundamentals along with that learning ML.
+- 👨‍💻 Working on my CS and Maths fundamentals along with learning ML.
 - 📚 I’m very much interest in open source and collabrative works.  DMs are always open :)
 - 💪🏼 Future Goal: Learn 
 - ⚡ Fun fact: i love movies and songs, also if you wanna play chess with me > [Chess.com](https://www.chess.com/member/adithyanmadhu)
