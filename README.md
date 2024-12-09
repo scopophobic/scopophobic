@@ -8,9 +8,10 @@
 
 
 - 👨‍💻 Working on my CS and Maths fundamentals along with learning ML.
-- 📚 I’m very much interest in open source and collabrative works.  DMs are always open :)
-- 💪🏼 Future Goal: Learn 
-- ⚡ Fun fact: i love movies and songs, also if you wanna play chess with me > [Chess.com](https://www.chess.com/member/adithyanmadhu)
+- 📚 I’m very much interest in open source and collabrative works.  feel free to contact :)
+- 💪🏼 Goal: Learn.
+- ⚡ you wanna play chess? [Chess.com](https://www.chess.com/member/adithyanmadhu) [lichess.org](https://lichess.org/@/ScopoPhobic123)
+- music and coffee 🖤
 <img align="right" src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="scopophobic" /> 
 
 <!---
