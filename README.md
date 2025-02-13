@@ -7,8 +7,9 @@
 <h2> Computer Science Undergrad 👨🏽‍🎓</h2>
 
 
-- 👨‍💻 Working on my CS and Maths fundamentals along with learning ML.
-- 📚 I’m very much interest in open source and collabrative works.  feel free to contact :)
+- 👨‍💻 Working on my CS and Maths fundamentals along with ML.
+- Right now learning how to code in GO, 
+- 📚 I’m interested in open source and collaborative works.  feel free to contact :)
 - 💪🏼 Goal: Learn.
 - ⚡ you wanna play chess? [Chess.com](https://www.chess.com/member/adithyanmadhu) [lichess.org](https://lichess.org/@/ScopoPhobic123)
 - music and coffee 🖤
