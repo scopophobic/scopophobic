@@ -18,14 +18,13 @@ Hey i'm Adithyan Madhu, i build software that minds its own business.
 
 - Strengthening my CS and Math fundamentals
 - Currently learning **Go** and **System Design**
-- Fan of open-source — love contributing and learning
-- Goal: Learn and Explore.
+- Open-source — love contributing and learning
+- workmail : [adithyanworkmail@gmail.com](mailto:adithyanworkmail@gmail.com)
 - Challenge me!  &#8203;[![Chess.com](https://img.shields.io/badge/Chess.com-000?style=flat&logo=chess&logoColor=white)](https://www.chess.com/member/adithyanmadhu)  &#8203;[![Lichess](https://img.shields.io/badge/Lichess-000?style=flat&logo=lichess&logoColor=white)](https://lichess.org/@/ScopoPhobic123)
-- music and coffee ☕️
 <img align="right" src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="scopophobic" /> 
 
 
-```
+```python
 Tech: Section{
 	Content: []string{
 		"django      — clean backend lines",
@@ -50,7 +49,7 @@ code. coffee. walk. repeat.
 ```md
 <details>
 <summary>the subtle stuff</summary>
-i like when interfaces are quiet.
+I like when interfaces are quiet.
 </details>
 ```
 -->
@@ -74,8 +73,8 @@ i like when interfaces are quiet.
 ### 🌐 Let's connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://scopophobic.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyanmadhu/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/scopophobicz)
-[![Mail](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:adithyanmadhu777@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter&logoColor=white)](https://x.com/sc0pophobic)
+[![Mail](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:adithyanworkmail@gmail.com)
 <!--<a href="https://dev.to/scopophobic" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
 
 </div>
