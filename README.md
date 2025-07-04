@@ -20,10 +20,10 @@ Hey i'm Adithyan Madhu, i build software that minds its own business.
 - Currently learning **Go** and **System Design**
 - Open-source — love contributing and learning
 - workmail : [adithyanworkmail@gmail.com](mailto:adithyanworkmail@gmail.com)
-- Challenge me!  &#8203;[![Chess.com](https://img.shields.io/badge/Chess.com-000?style=flat&logo=chess&logoColor=white)](https://www.chess.com/member/adithyanmadhu)  &#8203;[![Lichess](https://img.shields.io/badge/Lichess-000?style=flat&logo=lichess&logoColor=white)](https://lichess.org/@/ScopoPhobic123)
+- Interested in chess?  &#8203;[![Chess.com](https://img.shields.io/badge/Chess.com-000?style=flat&logo=chess&logoColor=white)](https://www.chess.com/member/adithyanmadhu)  &#8203;[![Lichess](https://img.shields.io/badge/Lichess-000?style=flat&logo=lichess&logoColor=white)](https://lichess.org/@/ScopoPhobic123)
 <img align="right" src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="scopophobic" /> 
 
-
+<!--
 ```python
 Tech: Section{
 	Content: []string{
@@ -37,6 +37,7 @@ Tech: Section{
 	},
 },
 ```
+-->
 <!--
 ```bash
 alias focus='clear && code'
