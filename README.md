@@ -2,7 +2,7 @@
 # [Scopophobic](https://scopophobic.vercel.app/)
 Hey i'm Adithyan Madhu, i build software that minds its own business.
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 
 <!-- ## Computer Science Undergrad 👨🏽‍🎓
