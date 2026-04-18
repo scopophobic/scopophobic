@@ -1,5 +1,5 @@
 
-# [Scopophobic](https://scopophobic.vercel.app/)
+# [Scopophobic](https://scopophobic.xyz/)
 Hey i'm Adithyan Madhu, i build software that minds its own business.
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
@@ -73,7 +73,7 @@ I like when interfaces are quiet.
 <div align="center">
   
 ### 🌐 Let's connect
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://scopophobic.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://scopophobic.xyz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyanmadhu/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter&logoColor=white)](https://x.com/sc0pophobic)
 [![Mail](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:adithyanworkmail@gmail.com)
