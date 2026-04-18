@@ -17,8 +17,9 @@ Hey i'm Adithyan Madhu, i build software that minds its own business.
 -->
 
 - Strengthening my CS and Math fundamentals
-- Currently learning **Go** and **System Design**
-- Open-source — love contributing and learning
+- Currently learning **Go** and **DevOps**
+- Open-source
+- [scopophobic.xyz](https://www.scopophobic.xyz)
 - workmail : [adithyanworkmail@gmail.com](mailto:adithyanworkmail@gmail.com)
 - Interested in chess?  &#8203;[![Chess.com](https://img.shields.io/badge/Chess.com-000?style=flat&logo=chess&logoColor=white)](https://www.chess.com/member/adithyanmadhu)  &#8203;[![Lichess](https://img.shields.io/badge/Lichess-000?style=flat&logo=lichess&logoColor=white)](https://lichess.org/@/ScopoPhobic123)
 <img align="right" src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="scopophobic" /> 
