@@ -74,10 +74,10 @@ I like when interfaces are quiet.
   
 ### 🌐 Let's connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://scopophobic.xyz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyanmadhu/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter&logoColor=white)](https://x.com/sc0pophobic)
 [![Mail](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:adithyanworkmail@gmail.com)
-<!--<a href="https://dev.to/scopophobic" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
+<!--<a href="https://dev.to/scopophobic" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyanmadhu/)-->
 
 </div>
 <!--
